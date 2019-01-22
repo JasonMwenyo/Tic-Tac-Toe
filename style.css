@@ -1,16 +1,22 @@
+/* align heading to center */
 h1{
    text-align: center;
 }
 
+/* adjust width, height and margin of table */
 table{
    width: 100px;
    height: 100px;
-  
+   margin: auto;
+   border-collapse: collapse;
 }
 
 /* Width and height for each table block*/
 td{ 
-    
+    content: normal;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
 }
 
 /* Top row */
@@ -19,12 +25,12 @@ td{
 }
 
 #topMiddle{
-      
+   
 
 }
 
 #topRight{
-
+   
 }
 
 /* Middle row */
@@ -33,9 +39,7 @@ td{
 }
 
 #middle{
-    border-width: 1px;
-    border-style: solid;
-    border-color: black;
+
 }
 
 #middleRight{
