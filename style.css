@@ -1,0 +1,57 @@
+h1{
+   text-align: center;
+}
+
+table{
+   width: 100px;
+   height: 100px;
+  
+}
+
+/* Width and height for each table block*/
+td{ 
+    
+}
+
+/* Top row */
+#topLeft{
+    
+}
+
+#topMiddle{
+      
+
+}
+
+#topRight{
+
+}
+
+/* Middle row */
+#middleLeft{
+
+}
+
+#middle{
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+#middleRight{
+
+}
+
+
+/* Bottom row */
+#bottomLeft{
+
+}
+
+#bottomMiddle{
+    
+}
+
+#bottomRight{
+
+}
