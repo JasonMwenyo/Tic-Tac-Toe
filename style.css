@@ -13,49 +13,48 @@ table{
 
 /* Width and height for each table block*/
 td{ 
-    content: normal;
-    border-width: 1px;
-    border-style: solid;
-    border-color: black;
+    border: 1px solid black;
+    padding-left: 13px;
 }
 
 /* Top row */
 #topLeft{
-    
+    border-left: 0;
+    border-top: 0;
 }
 
 #topMiddle{
-   
+   border-top: 0;
 
 }
 
 #topRight{
-   
+   border-right: 0;
+   border-top: 0;
 }
 
 /* Middle row */
 #middleLeft{
-
+   border-left: 0;
 }
 
-#middle{
-
-}
 
 #middleRight{
-
+   border-right: 0;
 }
 
 
 /* Bottom row */
 #bottomLeft{
-
+   border-left: 0;
+   border-bottom: 0;
 }
 
 #bottomMiddle{
-    
+    border-bottom: 0;
 }
 
 #bottomRight{
-
+   border-right: 0;
+   border-bottom: 0;
 }
