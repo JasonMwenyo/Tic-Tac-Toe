@@ -13,8 +13,8 @@ table{
 
 /* Width and height for each table block*/
 td{ 
-    border: 1px solid black;
-    padding-left: 13px;
+   border: 1px solid black;
+   padding-left: 13px;
 }
 
 /* Top row */
@@ -38,11 +38,9 @@ td{
    border-left: 0;
 }
 
-
 #middleRight{
    border-right: 0;
 }
-
 
 /* Bottom row */
 #bottomLeft{
